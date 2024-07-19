@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Anime">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAwAAAAEAACAAAAAACAAAAAAAACIAAgAAAAAA=</HashCode>
+      <FileName>Anime.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimeContainer" Collapsed="true">
+    <Position X="6.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAACAAAEAEAAEAAAAAAAAgAAAAACAEAABQAACAAAA=</HashCode>
+      <FileName>AnimeContainer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Date" Collapsed="true">
+    <Position X="7.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAkAAAAAAAAAAAAAAAABQAAAAQAAAABAAAgAAAAAAA=</HashCode>
+      <FileName>Date.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Movie">
+    <Position X="0.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAIAAAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Movie.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TVShow">
+    <Position X="4.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgQAACAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>TVShow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
